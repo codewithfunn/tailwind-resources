@@ -1,1 +1,27 @@
 # tailwind-resources
+
+# resources 
+- www.hyperui.dev
+- https://merakiui.com/
+- https://codepen.io/cruip/pens/public
+- https://www.gust-ui.com/
+- https://floatui.com/
+- https://www.tailwindawesome.com/
+- https://a17t.miles.land/
+- https://kitwind.io/products/kometa/
+- https://www.tailwindtoolbox.com/
+- https://headlessui.com/
+- https://www.tailwind-kit.com/
+- https://daisyui.com/
+- https://tailwindcomponents.com/
+- https://treact.owaiskhan.me/
+- https://www.tailwind-kit.com/
+- https://www.tailwindawesome.com/resources/lofi-ui
+- https://merakiui.com/
+- https://www.builtatlightspeed.com/theme/vechai-vechaiui
+- https://mambaui.com/
+- https://flowbite.com/
+- https://www.creative-tim.com/
+- https://kutty.netlify.app/
+- https://postsrc.com/components
+- https://tailblocks.cc/
